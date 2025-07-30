@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feed RSS - Procedimentos DRE</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+        }
+        .rss-link {
+            display: inline-block;
+            background: #ff6b35;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px;
+            transition: background 0.3s;
+        }
+        .rss-link:hover {
+            background: #e55a2b;
+        }
+        .stats {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .last-update {
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 40px;
+        }
+        .feed-info {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📰 Feed RSS - Procedimentos DRE</h1>
+        <p>Feed RSS com procedimentos do Diário da República - Série II - Parte L</p>
+    </div>
+    
+    <div class="feed-info">
+        <h3>📋 Informações do Feed</h3>
+        <p>Este feed RSS contém informações detalhadas sobre procedimentos de contratação pública publicados no Diário da República.</p>
+        <p><strong>URL do Feed:</strong> <a href="feed_rss_procedimentos.xml">feed_rss_procedimentos.xml</a></p>
+    </div>
+    
+    <div class="stats">
+        <h3>�� Estatísticas</h3>
+        <p><strong>Última atualização:</strong> <span id="lastUpdate"></span></p>
+        <p><strong>Total de procedimentos:</strong> <span id="totalProcedimentos"></span></p>
+    </div>
+    
+    <div style="text-align: center;">
+        <a href="feed_rss_procedimentos.xml" class="rss-link">�� Aceder ao Feed RSS</a>
+        <a href="https://github.com/joaodamiao/RSS-DRE" class="rss-link">�� Ver no GitHub</a>
+    </div>
+    
+    <div class="last-update">
+        <p>Atualizado automaticamente via GitHub Actions</p>
+        <p>Feed válido para leitores RSS como Feedly, Inoreader, etc.</p>
+    </div>
+    
+    <script>
+        // Atualizar data da última modificação
+        fetch('feed_rss_procedimentos.xml')
+            .then(response => response.headers.get('last-modified'))
+            .then(lastModified => {
+                if (lastModified) {
+                    document.getElementById('lastUpdate').textContent = new Date(lastModified).toLocaleString('pt-PT');
+                }
+            })
+            .catch(() => {
+                document.getElementById('lastUpdate').textContent = 'Indisponível';
+            });
+        
+        // Contar procedimentos no XML
+        fetch('feed_rss_procedimentos.xml')
+            .then(response => response.text())
+            .then(xml => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xml, 'text/xml');
+                const items = xmlDoc.getElementsByTagName('item');
+                document.getElementById('totalProcedimentos').textContent = items.length;
+            })
+            .catch(() => {
+                document.getElementById('totalProcedimentos').textContent = 'Indisponível';
+            });
+    </script>
+</body>
+</html>
