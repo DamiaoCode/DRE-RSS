@@ -96,8 +96,8 @@ O feed RSS contém as seguintes informações para cada procedimento:
 
 ### GitHub Pages
 
-- **URL**: https://joaodamiao.github.io/RSS-DRE/
-- **Feed RSS**: https://joaodamiao.github.io/RSS-DRE/feed_rss_procedimentos.xml
+- **URL**: https://damiaocode.github.io/RSS-DRE/
+- **Feed RSS**: https://damiaocode.github.io/RSS-DRE/feed_rss_procedimentos.xml
 
 ### Leitores RSS Compatíveis
 
