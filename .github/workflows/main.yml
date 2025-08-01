@@ -3,173 +3,55 @@ name: Atualizar Feed RSS DRE
 on:
   schedule:
     # Executar diariamente às 8:00 UTC
-    - cron: '0 8 * * *'
+    - cron: "0 8 * * *"
   workflow_dispatch:
     # Permitir execução manual
 
 jobs:
   update-rss:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        
-    - name: Create RSS directory
-      run: mkdir -p RSS
-      
-    - name: Run RSS extractor
-      run: |
-        cd scripts
-        python rss_dre_extractor.py
-      env:
-        # Configurar timezone para Portugal
-        TZ: Europe/Lisbon
-        
-    - name: Check if files were created
-      run: |
-        echo "Checking created files:"
-        ls -la RSS/
-        echo "RSS file size:"
-        wc -l RSS/feed_rss_procedimentos.xml || echo "RSS file not found"
-        
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add RSS/
-        git diff --quiet && git diff --staged --quiet || (git commit -m "�� Atualizar feed RSS DRE - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
-        
-    - name: Create index.html for GitHub Pages
-      run: |
-        cat > index.html << 'EOF'
-        <!DOCTYPE html>
-        <html lang="pt-PT">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Feed RSS - Procedimentos DRE</title>
-            <style>
-                body {
-                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-                    max-width: 800px;
-                    margin: 0 auto;
-                    padding: 20px;
-                    line-height: 1.6;
-                    color: #333;
-                }
-                .header {
-                    text-align: center;
-                    margin-bottom: 40px;
-                    padding: 20px;
-                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                    color: white;
-                    border-radius: 10px;
-                }
-                .rss-link {
-                    display: inline-block;
-                    background: #ff6b35;
-                    color: white;
-                    padding: 12px 24px;
-                    text-decoration: none;
-                    border-radius: 5px;
-                    margin: 10px;
-                    transition: background 0.3s;
-                }
-                .rss-link:hover {
-                    background: #e55a2b;
-                }
-                .stats {
-                    background: #f8f9fa;
-                    padding: 20px;
-                    border-radius: 8px;
-                    margin: 20px 0;
-                }
-                .last-update {
-                    text-align: center;
-                    color: #666;
-                    font-size: 0.9em;
-                    margin-top: 40px;
-                }
-                .feed-info {
-                    background: #e3f2fd;
-                    padding: 15px;
-                    border-radius: 5px;
-                    margin: 20px 0;
-                }
-            </style>
-        </head>
-        <body>
-            <div class="header">
-                <h1>📰 Feed RSS - Procedimentos DRE</h1>
-                <p>Feed RSS com procedimentos do Diário da República - Série II - Parte L</p>
-            </div>
-            
-            <div class="feed-info">
-                <h3>📋 Informações do Feed</h3>
-                <p>Este feed RSS contém informações detalhadas sobre procedimentos de contratação pública publicados no Diário da República.</p>
-                <p><strong>URL do Feed:</strong> <a href="feed_rss_procedimentos.xml">feed_rss_procedimentos.xml</a></p>
-            </div>
-            
-            <div class="stats">
-                <h3>�� Estatísticas</h3>
-                <p><strong>Última atualização:</strong> <span id="lastUpdate"></span></p>
-                <p><strong>Total de procedimentos:</strong> <span id="totalProcedimentos"></span></p>
-            </div>
-            
-            <div style="text-align: center;">
-                <a href="feed_rss_procedimentos.xml" class="rss-link">�� Aceder ao Feed RSS</a>
-                <a href="https://github.com/joaodamiao/RSS-DRE" class="rss-link">�� Ver no GitHub</a>
-            </div>
-            
-            <div class="last-update">
-                <p>Atualizado automaticamente via GitHub Actions</p>
-                <p>Feed válido para leitores RSS como Feedly, Inoreader, etc.</p>
-            </div>
-            
-            <script>
-                // Atualizar data da última modificação
-                fetch('feed_rss_procedimentos.xml')
-                    .then(response => response.headers.get('last-modified'))
-                    .then(lastModified => {
-                        if (lastModified) {
-                            document.getElementById('lastUpdate').textContent = new Date(lastModified).toLocaleString('pt-PT');
-                        }
-                    })
-                    .catch(() => {
-                        document.getElementById('lastUpdate').textContent = 'Indisponível';
-                    });
-                
-                // Contar procedimentos no XML
-                fetch('feed_rss_procedimentos.xml')
-                    .then(response => response.text())
-                    .then(xml => {
-                        const parser = new DOMParser();
-                        const xmlDoc = parser.parseFromString(xml, 'text/xml');
-                        const items = xmlDoc.getElementsByTagName('item');
-                        document.getElementById('totalProcedimentos').textContent = items.length;
-                    })
-                    .catch(() => {
-                        document.getElementById('totalProcedimentos').textContent = 'Indisponível';
-                    });
-            </script>
-        </body>
-        </html>
-        EOF
-        
-    - name: Commit index.html
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add index.html
-        git diff --quiet && git diff --staged --quiet || (git commit -m "📄 Atualizar página GitHub Pages" && git push)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create directories
+        run: |
+          mkdir -p RSS
+          mkdir -p data
+
+      - name: Run RSS extractor
+        run: |
+          cd scripts
+          python rss_dre_extractor.py
+        env:
+          # Configurar timezone para Portugal
+          TZ: Europe/Lisbon
+
+      - name: Check if files were created
+        run: |
+          echo "Checking created files:"
+          ls -la RSS/
+          ls -la data/
+          echo "RSS file size:"
+          wc -l RSS/feed_rss_procedimentos.xml || echo "RSS file not found"
+          echo "Ativos file size:"
+          wc -l data/ativos.json || echo "Ativos file not found"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add RSS/
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Atualizar feed RSS DRE e procedimentos ativos - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
