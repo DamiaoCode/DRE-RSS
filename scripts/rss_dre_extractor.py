@@ -117,6 +117,7 @@ def fetch_procedure_details(url: str) -> Dict[str, str]:
                     'descricao': r'Descrição:\s*(.+?)(?:\n|$)',
                     'preco_base': r'Preço base s/IVA:\s*(.+?)(?:\n|$)',
                     'prazo_execucao': r'Prazo de execução do contrato:\s*(.+?)(?:\n|$)',
+                    'prazo_apresentacao_propostas': r'Prazo para apresentação das propostas:\s*(.+?)(?:\n|$)',
                     'fundos_eu': r'Têm fundos EU\?\s*(.+?)(?:\n|$)',
                     'plataforma_eletronica': r'Plataforma eletrónica utilizada pela entidade adjudicante:\s*(.+?)(?:\n|$)',
                     'url_procedimento': r'URL para Apresentação:\s*(.+?)(?:\n|$)',
@@ -223,6 +224,29 @@ def save_to_json(data: List[Dict[str, str]], filename: str = "procedimentos_dre.
     except Exception as e:
         print(f"Erro ao salvar arquivo JSON: {e}")
 
+def save_to_json_with_date(data: List[Dict[str, str]]):
+    """
+    Salva os dados extraídos em formato JSON na pasta data/ com nome baseado na data atual
+    """
+    try:
+        from datetime import datetime
+        
+        # Garantir que o diretório data existe
+        os.makedirs('../data', exist_ok=True)
+        
+        # Obter data atual no formato DD-MM-YYYY
+        current_date = datetime.now().strftime('%d-%m-%Y')
+        filename = f"{current_date}.json"
+        
+        filepath = os.path.join('../data', filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"Dados salvos com sucesso em {filepath}")
+        return filepath
+    except Exception as e:
+        print(f"Erro ao salvar arquivo JSON com data: {e}")
+        return None
+
 def main():
     """
     Função principal que executa todo o processo
@@ -271,6 +295,36 @@ def main():
     # Salvar dados completos em JSON
     save_to_json(procedimentos_completos, "procedimentos_completos.json")
     
+    # Salvar dados completos em JSON com data na pasta data/
+    print("\n📅 Salvando dados com data atual...")
+    data_file_path = save_to_json_with_date(procedimentos_completos)
+    
+    # Atualizar arquivo ativos.json
+    print("\n🔄 Atualizando arquivo ativos.json...")
+    try:
+        from gerir_ativos import update_ativos_from_date_file, merge_with_existing_ativos, save_ativos
+        
+        if data_file_path:
+            # Obter procedimentos ativos do arquivo de data
+            procedimentos_ativos = update_ativos_from_date_file(data_file_path)
+            
+            # Combinar com procedimentos ativos existentes
+            ativos_finais = merge_with_existing_ativos(procedimentos_ativos)
+            
+            # Salvar arquivo ativos.json
+            ativos_file_path = save_ativos(ativos_finais)
+            
+            if ativos_file_path:
+                print(f"✅ Arquivo ativos.json atualizado com sucesso!")
+                print(f"📊 Total de procedimentos ativos: {len(ativos_finais)}")
+            else:
+                print("❌ Erro ao salvar arquivo ativos.json")
+        else:
+            print("❌ Não foi possível obter caminho do arquivo de data")
+            
+    except Exception as e:
+        print(f"❌ Erro ao atualizar ativos.json: {e}")
+    
     # Gerar automaticamente o feed RSS
     print("\n🔄 Gerando feed RSS automaticamente...")
     try:
@@ -302,6 +356,9 @@ def main():
     print(f"📁 Arquivos gerados:")
     print(f"  - ../RSS/procedimentos_basicos.json (dados do RSS)")
     print(f"  - ../RSS/procedimentos_completos.json (dados + detalhes)")
+    if data_file_path:
+        print(f"  - {data_file_path} (dados completos com data)")
+    print(f"  - ../data/ativos.json (procedimentos ativos)")
     print(f"  - ../RSS/feed_rss_procedimentos.xml (feed RSS completo)")
 
 if __name__ == "__main__":

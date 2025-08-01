@@ -22,6 +22,7 @@ def extract_field_from_details(details_text: str, field_name: str) -> Optional[s
         'descricao': r'Descrição:\s*(.+?)(?:\n|$)',
         'preco_base': r'Preço base s/IVA:\s*(.+?)(?:\n|$)',
         'prazo_execucao': r'Prazo de execução do contrato:\s*(.+?)(?:\n|$)',
+        'prazo_apresentacao_propostas': r'Prazo para apresentação das propostas:\s*(.+?)(?:\n|$)',
         'fundos_eu': r'Têm fundos EU\?\s*(.+?)(?:\n|$)',
         'plataforma_eletronica': r'Plataforma eletrónica utilizada pela entidade adjudicante:\s*(.+?)(?:\n|$)',
         'url_procedimento': r'URL para Apresentação:\s*(.+?)(?:\n|$)',
@@ -73,6 +74,7 @@ def parse_procedimento(proc: Dict) -> Dict:
             'descricao': proc.get('descricao', 'N/A'),
             'preco_base': proc.get('preco_base', 'N/A'),
             'prazo_execucao': proc.get('prazo_execucao', 'N/A'),
+            'prazo_apresentacao_propostas': proc.get('prazo_apresentacao_propostas', 'N/A'),
             'fundos_eu': proc.get('fundos_eu', 'N/A'),
             'plataforma_eletronica': proc.get('plataforma_eletronica', 'N/A'),
             'url_procedimento': proc.get('url_procedimento', 'N/A'),
@@ -85,7 +87,7 @@ def parse_procedimento(proc: Dict) -> Dict:
     fields = [
         'entidade_adjudicante', 'nipc', 'distrito', 'concelho', 'freguesia',
         'site', 'email', 'designacao_contrato', 'descricao', 'preco_base',
-        'prazo_execucao', 'fundos_eu', 'plataforma_eletronica', 'url_procedimento',
+        'prazo_execucao', 'prazo_apresentacao_propostas', 'fundos_eu', 'plataforma_eletronica', 'url_procedimento',
         'autor_nome', 'autor_cargo'
     ]
     
@@ -169,6 +171,7 @@ def create_rss_feed(procedimentos: List[Dict]) -> str:
             <tr><td><strong>Descrição:</strong></td><td>{proc.get('descricao', 'N/A')}</td></tr>
             <tr><td><strong>Preço base s/IVA:</strong></td><td>{proc.get('preco_base', 'N/A')}</td></tr>
             <tr><td><strong>Prazo de execução:</strong></td><td>{proc.get('prazo_execucao', 'N/A')}</td></tr>
+            <tr><td><strong>Prazo para apresentação das propostas:</strong></td><td>{proc.get('prazo_apresentacao_propostas', 'N/A')}</td></tr>
             <tr><td><strong>Tem fundos EU:</strong></td><td>{proc.get('fundos_eu', 'N/A')}</td></tr>
             <tr><td><strong>Plataforma eletrónica:</strong></td><td>{proc.get('plataforma_eletronica', 'N/A')}</td></tr>
             <tr><td><strong>URL procedimento:</strong></td><td><a href="{proc.get('url_procedimento', '')}">{proc.get('url_procedimento', 'N/A')}</a></td></tr>

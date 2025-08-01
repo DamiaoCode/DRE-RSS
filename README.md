@@ -1,32 +1,43 @@
 # 📰 Feed RSS - Procedimentos DRE
 
-Este projeto extrai automaticamente informações de procedimentos do RSS feed do Diário da República (Série II - Parte L) e gera um feed RSS completo e estruturado.
+Este projeto extrai automaticamente informações de procedimentos do RSS feed do Diário da República (Série II - Parte L) e gera um feed RSS completo e estruturado, incluindo uma interface web moderna para consulta e gestão de procedimentos ativos.
 
 ## 🚀 Funcionalidades
 
 - ✅ **Extração automática** do RSS feed do Diário da República
-- ✅ **Detalhes completos** de cada procedimento (entidade, NIPC, preços, etc.)
+- ✅ **Detalhes completos** de cada procedimento (entidade, NIPC, preços, prazos, etc.)
 - ✅ **Feed RSS válido** compatível com todos os leitores RSS
 - ✅ **Atualização automática** via GitHub Actions (diária)
-- ✅ **GitHub Pages** com página web para visualização
+- ✅ **GitHub Pages** com interface web moderna e responsiva
+- ✅ **Sistema de Seeds** para filtros personalizados por palavras-chave e distrito
+- ✅ **Gestão de procedimentos ativos** com filtros por prazo de validade
+- ✅ **Interface de pesquisa avançada** com filtros por seed e texto livre
 - ✅ **Informações estruturadas** em formato XML e JSON
+- ✅ **Persistência local** de seeds e configurações personalizadas
 
 ## 📁 Estrutura do Projeto
 
 ```
-RSS - DRE/
+DRE-RSS/
 ├── .github/
 │   └── update.yml          # Workflow GitHub Actions
+├── data/
+│   ├── DD-MM-YYYY.json     # Ficheiros JSON diários
+│   ├── ativos.json         # Procedimentos ativos (prazos válidos)
+│   └── seeds.json          # Seeds personalizadas (opcional)
+├── scripts/
+│   ├── rss_dre_extractor.py    # Script principal de extração
+│   ├── json_to_rss_converter.py # Conversor JSON→RSS
+│   ├── gerir_ativos.py         # Gestão de procedimentos ativos
+│   └── manage_seeds.py         # Gestão de seeds (local)
 ├── RSS/
 │   ├── procedimentos_basicos.json     # Dados do RSS
 │   ├── procedimentos_completos.json   # Dados + detalhes
 │   └── feed_rss_procedimentos.xml     # Feed RSS final
-├── scripts/
-│   ├── rss_dre_extractor.py           # Script principal
-│   └── json_to_rss_converter.py       # Conversor JSON→RSS
 ├── requirements.txt                    # Dependências Python
+├── serve.py                           # Servidor local para desenvolvimento
 ├── README.md                          # Este arquivo
-└── index.html                         # Página GitHub Pages
+└── index.html                         # Interface web principal
 ```
 
 ## 🛠️ Instalação
@@ -34,8 +45,8 @@ RSS - DRE/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/joaodamiao/RSS-DRE.git
-cd RSS-DRE
+git clone https://github.com/DamiaoCode/DRE-RSS.git
+cd DRE-RSS
 ```
 
 2. Instale as dependências:
@@ -59,16 +70,50 @@ O script irá:
 
 1. Extrair dados do RSS feed do DRE
 2. Acessar cada link e extrair detalhes completos
-3. Salvar dados em JSON na pasta `RSS/`
+3. Salvar dados em JSON na pasta `data/` com data (DD-MM-YYYY.json)
 4. Gerar automaticamente o feed RSS XML
+5. Atualizar o ficheiro `ativos.json` com procedimentos válidos
 
-### Execução Automática
+### Interface Web
 
-O projeto está configurado para atualizar automaticamente via GitHub Actions:
+Para aceder à interface web:
 
-- **Agendamento**: Diariamente às 8:00 UTC
-- **Execução manual**: Disponível na aba Actions do GitHub
-- **Deploy automático**: Feed RSS disponível em GitHub Pages
+1. **Desenvolvimento local**:
+
+```bash
+python serve.py
+```
+
+Aceda a http://localhost:8000
+
+2. **GitHub Pages**:
+   Aceda a https://damiaocode.github.io/DRE-RSS/
+
+### Sistema de Seeds
+
+O sistema de seeds permite criar filtros personalizados:
+
+1. **Criar Seed**: Clique em "Criar Seed" na interface
+2. **Adicionar palavras-chave**: Separe por vírgulas ou Enter
+3. **Selecionar distrito**: Filtro geográfico opcional
+4. **Guardar**: Gera um código único para a seed
+5. **Usar Seed**: Introduza o código no campo "Pesquisar por Seed"
+
+### Gestão de Seeds (Local)
+
+Para gestão avançada de seeds via linha de comandos:
+
+```bash
+cd scripts
+python manage_seeds.py
+```
+
+Opções disponíveis:
+
+- Adicionar nova seed
+- Listar seeds existentes
+- Procurar seed por código
+- Remover seed
 
 ## 📊 Informações Extraídas
 
@@ -87,25 +132,31 @@ O feed RSS contém as seguintes informações para cada procedimento:
 - **Descrição**: Detalhes do contrato
 - **Preço base s/IVA**: Valor do contrato
 - **Prazo de execução**: Duração prevista
+- **Prazo para apresentação das propostas**: Data e hora limite
 - **Tem fundos EU**: Se tem financiamento europeu
 - **Plataforma eletrónica**: Plataforma utilizada
 - **URL procedimento**: Link para apresentação
 - **Autor do anúncio**: Nome e cargo
 
-## 🌐 Acesso ao Feed
+## 🌐 Interface Web
 
-### GitHub Pages
+### Funcionalidades Principais
 
-- **URL**: https://damiaocode.github.io/RSS-DRE/
-- **Feed RSS**: https://damiaocode.github.io/DRE-RSS/RSS/feed_rss_procedimentos.xml
+- **Tabela responsiva** com procedimentos ativos
+- **Pesquisa em tempo real** por todos os campos
+- **Sistema de seeds** para filtros personalizados
+- **Filtros por distrito** para relevância geográfica
+- **Expansão de detalhes** ao clicar nas linhas
+- **Formatação automática** de datas e preços
+- **Interface moderna** e profissional
 
-### Leitores RSS Compatíveis
+### Características Técnicas
 
-- Feedly
-- Inoreader
-- NetNewsWire
-- RSS Reader
-- Qualquer leitor RSS padrão
+- **Responsive Design**: Adaptável a todos os dispositivos
+- **Local Storage**: Persistência de seeds no navegador
+- **CORS Handling**: Servidor local para desenvolvimento
+- **Search Optimization**: Pesquisa eficiente em todos os campos
+- **Modern UI/UX**: Interface intuitiva e profissional
 
 ## 🔧 Configuração
 
@@ -125,15 +176,36 @@ O workflow está configurado em `.github/update.yml`:
 - Execução diária automática
 - Execução manual disponível
 - Commit automático das atualizações
+- Geração automática de ficheiros JSON datados
 
-## 📈 Estatísticas
+### Desenvolvimento Local
 
-O feed inclui estatísticas em tempo real:
+Para desenvolvimento e testes:
 
-- Total de procedimentos
-- Data da última atualização
-- Informações sobre fundos EU
-- Distribuição por entidades
+```bash
+# Servidor local
+python serve.py
+
+# Gestão de seeds
+cd scripts
+python manage_seeds.py
+```
+
+## 📈 Gestão de Dados
+
+### Ficheiros JSON
+
+- **DD-MM-YYYY.json**: Dados diários extraídos
+- **ativos.json**: Procedimentos com prazos válidos
+- **seeds.json**: Seeds personalizadas (opcional)
+
+### Atualização Automática
+
+O sistema mantém automaticamente:
+
+- Procedimentos ativos (prazos não expirados)
+- Seeds personalizadas
+- Dados históricos organizados por data
 
 ## 🤝 Contribuição
 
@@ -149,6 +221,20 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 🔗 Links Úteis
 
+- **Interface Web**: https://damiaocode.github.io/DRE-RSS/
 - **RSS Feed Original**: https://files.diariodarepublica.pt/rss/serie2&parte=l-html.xml
 - **Diário da República**: https://diariodarepublica.pt/
-- **GitHub Pages**: https://joaodamiao.github.io/RSS-DRE/
+- **Feed RSS Gerado**: https://damiaocode.github.io/DRE-RSS/RSS/feed_rss_procedimentos.xml
+
+## 🆕 Novidades
+
+### Versão 2.0 - Interface Web Completa
+
+- ✅ Interface web moderna e responsiva
+- ✅ Sistema de seeds para filtros personalizados
+- ✅ Gestão automática de procedimentos ativos
+- ✅ Pesquisa avançada por todos os campos
+- ✅ Filtros geográficos por distrito
+- ✅ Persistência local de configurações
+- ✅ Formatação automática de dados
+- ✅ Design profissional e intuitivo
