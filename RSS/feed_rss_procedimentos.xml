@@ -6,208 +6,264 @@
     <link>https://joaodamiao.github.io/RSS-DRE/</link>
     <ns0:link href="https://joaodamiao.github.io/RSS-DRE/feed_rss_procedimentos.xml" rel="self" type="application/rss+xml"/>
     <language>pt-PT</language>
-    <lastBuildDate>Wed, 20 Aug 2025 09:25:49 </lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 09:27:26 </lastBuildDate>
     <item>
-      <title>Procedimento 1: Requalificação do Imóvel da Quinta da tapada do Costa - Espaço Cowork</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22237-932686642</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22237-932686642</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
+      <title>Procedimento 1: Restabelecimento da Floresta de Albergaria-a-Velha afetada por agentes bióticas e abióticos ou por acontecimento catastróficos</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22346-932837032</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22346-932837032</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
       <description>
         &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
         &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Municipio de Pedrógão Grande&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;507011937&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Leiria&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pedrogão Grande&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Pedrógão Grande&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-pedrogaogrande.pt&quot;&gt;www.cm-pedrogaogrande.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-pedrogaogrande.pt&quot;&gt;geral@cm-pedrogaogrande.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Requalificação do Imóvel da Quinta da tapada do Costa - Espaço Cowork&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Requalificação do Imóvel da Quinta da tapada do Costa - Espaço Cowork&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;373.994,73 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;240 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;29-08-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município de Albergaria-a-Velha&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506783146&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aveiro&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Albergaria-a-Velha&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Albergaria-a-Velha e Valmaior&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-albergaria.pt&quot;&gt;www.cm-albergaria.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-albergaria.pt&quot;&gt;geral@cm-albergaria.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Restabelecimento da Floresta de Albergaria-a-Velha afetada por agentes bióticas e abióticos ou por acontecimento catastróficos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Restabelecimento da Floresta de Albergaria-a-Velha afetada por agentes bióticas e abióticos ou por acontecimento catastróficos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;481.364,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;150 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;09-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;António José Ferreira Lopes&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;António Augusto Amaral Loureiro e Santos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal de Albergaria-a-Velha&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 2: Transportes escolares para o ano letivo de 2025/2026  aquisição de transporte especial para crianças e jovens com necessidades de saúde especiais</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22347-932837033</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22347-932837033</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município de Montemor-o-Velho&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;501272976&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Coimbra&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Montemor-o-Velho&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Montemor-o-Velho e Gatões&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-montemorvelho.pt&quot;&gt;www.cm-montemorvelho.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-montemorvelho.pt&quot;&gt;geral@cm-montemorvelho.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Transportes escolares para o ano letivo de 2025/2026  aquisição de transporte especial para crianças e jovens com necessidades de saúde especiais&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Transportes escolares para o ano letivo de 2025/2026  aquisição de transporte especial para crianças e jovens com necessidades de saúde especiais&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;149.536,60 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;179 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;26-08-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Emílio Augusto Ferreira Torrão&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         </description>
     </item>
     <item>
-      <title>Procedimento 2: Intervenção do âmbito da eficiência energética - Centro Escolar da Alameda</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22235-932688010</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22235-932688010</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
+      <title>Procedimento 3: Implementação de sistema de videovigilância CCTV em Carvoeiro</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22349-932837034</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22349-932837034</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
       <description>
         &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
         &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Câmara Municipal de Peso da Régua.&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506829260&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vila Real&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Peso da Régua&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Peso da Régua e Godim&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;N/A&quot;&gt;N/A&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:cmregua@cmpr.pt&quot;&gt;cmregua@cmpr.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Intervenção do âmbito da eficiência energética - Centro Escolar da Alameda&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Intervenção do âmbito da eficiência energética - Centro Escolar da Alameda&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;330.500,00 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;60 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;25-08-2025 17:00&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sim&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;José Manuel Gonçalves&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal de Peso da Régua&lt;/td&gt;&lt;/tr&gt;
-        &lt;/table&gt;
-        </description>
-    </item>
-    <item>
-      <title>Procedimento 3: Criação do Parque Mineiro de S. Pedro da Cova</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22236-932688011</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22236-932688011</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
-      <description>
-        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
-        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município de Gondomar&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506848957&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Porto&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Gondomar&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.cm-gondomar.pt&quot;&gt;http://www.cm-gondomar.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-gondomar.pt&quot;&gt;geral@cm-gondomar.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Criação do Parque Mineiro de S. Pedro da Cova&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Criação do Parque Mineiro de S. Pedro da Cova&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1.078.145,40 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;365 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;12-09-2025 17:30&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Luís Filipe Araujo&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente&lt;/td&gt;&lt;/tr&gt;
-        &lt;/table&gt;
-        </description>
-    </item>
-    <item>
-      <title>Procedimento 4: Concurso público para fornecimento de alavanca magnética e de detetor de metais para tampas em FFD</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22238-932688012</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22238-932688012</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
-      <description>
-        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
-        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;MUNICÍPIO DE ALBUFEIRA&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;503539473&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;MUNICIPIO DE LAGOA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506804240&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Faro&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Albufeira&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Albufeira e Olhos de Água&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-albufeira.pt&quot;&gt;www.cm-albufeira.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-albufeira.pt&quot;&gt;geral@cm-albufeira.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Concurso público para fornecimento de alavanca magnética e de detetor de metais para tampas em FFD&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fornecimento de alavanca magnética e de detetor de metais para tampas em FFD&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;6.828,00 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;30 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;28-08-2025 23:59&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;José Carlos Martins Rolo&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal&lt;/td&gt;&lt;/tr&gt;
-        &lt;/table&gt;
-        </description>
-    </item>
-    <item>
-      <title>Procedimento 5: REPARAÇÃO, CONSERVAÇÃO E REMODELAÇÃO EM EDIFÍCIOS - ALTERAÇÕES NA BAL EM QUARTEIRA</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22239-932688014</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22239-932688014</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
-      <description>
-        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
-        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;MUNICÍPIO DE LOULÉ&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;502098139&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Faro&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Loulé&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lagoa&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-loule.pt&quot;&gt;www.cm-loule.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:aprovisionamento@cm-loule.pt&quot;&gt;aprovisionamento@cm-loule.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;REPARAÇÃO, CONSERVAÇÃO E REMODELAÇÃO EM EDIFÍCIOS - ALTERAÇÕES NA BAL EM QUARTEIRA&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;REPARAÇÃO, CONSERVAÇÃO E REMODELAÇÃO EM EDIFÍCIOS - ALTERAÇÕES NA BAL EM QUARTEIRA&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;684.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;180 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;18-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-lagoa.pt&quot;&gt;www.cm-lagoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-lagoa.pt&quot;&gt;geral@cm-lagoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Implementação de sistema de videovigilância CCTV em Carvoeiro&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Implementação de sistema de videovigilância CCTV em Carvoeiro, com mecanismo de gravação na sala técnica do posto territorial (SPTER) de Lagoa, software de controlo com sistema de interligação das câmaras na rede, incluindo todos os equipamentos e a sua montagem, configuração e colocação em serviço, ações de formação no âmbito da operação e configuração e, ainda, instalação de infraestruturas.&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;276.711,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;5 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;15-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vitor Aleixo&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Director de Departamento&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Ana Cristina Tiago Martins&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vereadora&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         </description>
     </item>
     <item>
-      <title>Procedimento 6: 5/CPúblico/2025 Empreitada de reformulação e readaptação das infraestruturas da Biblioteca</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22240-932688015</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22240-932688015</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
+      <title>Procedimento 4: Manutenção e conservação de espaços verdes no concelho de lagoa e campos desportivos</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22350-932837035</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22350-932837035</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
       <description>
         &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
         &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;501559094&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;MUNICIPIO DE LAGOA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506804240&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Faro&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lagoa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-lagoa.pt&quot;&gt;www.cm-lagoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-lagoa.pt&quot;&gt;geral@cm-lagoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Manutenção e conservação de espaços verdes no concelho de lagoa e campos desportivos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Manutenção e conservação de espaços verdes no concelho de lagoa e campos desportivos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1.499.976,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;36 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;17-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Ana Cristina Tiago Martins&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vereadora&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 5: Concurso Público n.º 7/2025 - Fornecimento de uma solução de segurança (Cluster de Firewall e XDR)</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22351-932837036</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22351-932837036</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município da Lousã&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;501121528&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Coimbra&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lousã&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Lousã e Vilarinho&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-lousa.pt&quot;&gt;www.cm-lousa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:aprovisionamento@cm-lousa.pt&quot;&gt;aprovisionamento@cm-lousa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Concurso Público n.º 7/2025 - Fornecimento de uma solução de segurança (Cluster de Firewall e XDR)&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Concurso Público n.º 7/2025 - Fornecimento de uma solução de segurança (Cluster de Firewall e XDR)&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;117.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;3 ANOS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;31-08-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Luís Miguel Correia Antunes&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 6: Carne de Bovino</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22352-932837037</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22352-932837037</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fundação INATEL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;500122237&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Cascais&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.novasbe.unl.pt/pt/&quot;&gt;http://www.novasbe.unl.pt/pt/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:compras@novasbe.pt&quot;&gt;compras@novasbe.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;5/CPúblico/2025 Empreitada de reformulação e readaptação das infraestruturas da Biblioteca&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;5/CPúblico/2025 Empreitada de reformulação e readaptação das infraestruturas da Biblioteca&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;750.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;120 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;20-09-2025 18:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Arroios - Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.inatel.pt&quot;&gt;https://www.inatel.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:fundacao.inatel@inatel.pt&quot;&gt;fundacao.inatel@inatel.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Carne de Bovino&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Carne de Bovino&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;327.008,80 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;6 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;17-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Catarina Candeias Monteiro&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Técnica Superior&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Tiago Tenreiro Alves&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Técnico&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         </description>
     </item>
     <item>
-      <title>Procedimento 7: PRC_0342/2024_GAE-AA1160 - Empreitada de Conceção-Construção da Reabilitação da ETA do Alvão (Vila Real)</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22242-932714574</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22242-932714574</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
+      <title>Procedimento 7: AQUISIÇÃO DE SERVIÇOS DE VIAGENS, TRANSPORTE AÉREO, ALOJAMENTO E SERVIÇOS COMPLEMENTARES INTERNACIONAIS PARA A ORDEM DOS ENGENHEIROS</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22354-932837043</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22354-932837043</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
       <description>
         &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
         &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Águas do Norte, SA&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;513606084&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vila Real&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vila Real&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Vila Real&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.adnorte.pt/&quot;&gt;http://www.adnorte.pt/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral.adnorte@adp.pt&quot;&gt;geral.adnorte@adp.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;PRC_0342/2024_GAE-AA1160 - Empreitada de Conceção-Construção da Reabilitação da ETA do Alvão (Vila Real)&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;PRC_0342/2024_GAE-AA1160 - Empreitada de Conceção-Construção da Reabilitação da ETA do Alvão (Vila Real)&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;2.760.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;798 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;21-10-2025 18:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Ordem Dos Engenheiros&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;500839166&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.ordemengenheiros.pt&quot;&gt;www.ordemengenheiros.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:secretariageral@oep.pt&quot;&gt;secretariageral@oep.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;AQUISIÇÃO DE SERVIÇOS DE VIAGENS, TRANSPORTE AÉREO, ALOJAMENTO E SERVIÇOS COMPLEMENTARES INTERNACIONAIS PARA A ORDEM DOS ENGENHEIROS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;AQUISIÇÃO DE SERVIÇOS DE VIAGENS, TRANSPORTE AÉREO, ALOJAMENTO E SERVIÇOS COMPLEMENTARES INTERNACIONAIS PARA A ORDEM DOS ENGENHEIROS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;180.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1 ANOS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;N/A&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Alexandra Bezelga&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Técnica Superior de Gestão de Ativos e Engenharia&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Nelson Jerónimo&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Secretário-geral&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         </description>
     </item>
     <item>
-      <title>Procedimento 8: Aquisição de Ecógrafos</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22241-932717132</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22241-932717132</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
+      <title>Procedimento 8: EMPREITADA PARA A VENTILAÇÃO DE ESPAÇOS EM SOBREAQUECIMENTO NAS ÁREAS TÉCNICAS E REPARAÇÃO DE FUGAS EM DIVERSAS ESCOLAS DO CONCELHO</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22357-932837044</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22357-932837044</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Câmara Municipal de Matosinhos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;501305912&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Porto&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Matosinhos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.cm-matosinhos.pt&quot;&gt;http://www.cm-matosinhos.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:contratacaopublica@cm-matosinhos.pt&quot;&gt;contratacaopublica@cm-matosinhos.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EMPREITADA PARA A VENTILAÇÃO DE ESPAÇOS EM SOBREAQUECIMENTO NAS ÁREAS TÉCNICAS E REPARAÇÃO DE FUGAS EM DIVERSAS ESCOLAS DO CONCELHO&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EMPREITADA PARA A VENTILAÇÃO DE ESPAÇOS EM SOBREAQUECIMENTO NAS ÁREAS TÉCNICAS E REPARAÇÃO DE FUGAS EM DIVERSAS ESCOLAS DO CONCELHO&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;67.630,78 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;90 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;04-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Luísa Maria Neves Salgueiro&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente de Câmara&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 9: AQUISIÇÃO DE SERVIÇOS DE COMUNICAÇÕES FIREWALL CUSTOM- SSN PORTUGAL</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22363-932837055</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22363-932837055</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;600084973&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Belém&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.dgrm.mm.gov.pt&quot;&gt;http://www.dgrm.mm.gov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:dgrm@dgrm.mm.gov.pt&quot;&gt;dgrm@dgrm.mm.gov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;AQUISIÇÃO DE SERVIÇOS DE COMUNICAÇÕES FIREWALL CUSTOM- SSN PORTUGAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Serviços de Comunicações FW Custom - SSN Portugal&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;150.368,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;32 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;17-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ANOGOV&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.anogov.com/op-dgrm/faces/&quot;&gt;https://www.anogov.com/op-dgrm/faces/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Isabel Ventura&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Subdiretora-Gera&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 10: Aquisição de Dispositivos Médicos e Outros Produtos para Esterilização</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22365-932837056</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22365-932837056</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
       <description>
         &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
         &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
@@ -218,43 +274,519 @@
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.hevora.min-saude.pt&quot;&gt;www.hevora.min-saude.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:concursos.aprov@ulsac.min-saude.pt&quot;&gt;concursos.aprov@ulsac.min-saude.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Ecógrafos&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Ecógrafos&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;21.875,00 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;20 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;03-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Dispositivos Médicos e Outros Produtos para Esterilização&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Dispositivos Médicos e Outros Produtos para Esterilização&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;427.713,36 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;36 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;18-09-2025 18:00&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vitor Rui Gomes Fialho&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente Conselho de Administração&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente do Conselho de Administração&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         </description>
     </item>
     <item>
-      <title>Procedimento 9: EXECUÇÃO DA REDE DE DRENAGEM DE ÁGUAS RESIDUAIS NO LUGAR DE BAFOUGUES - RECEZINHOS</title>
-      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22243-932720875</link>
-      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22243-932720875</guid>
-      <pubDate>Wed, 20 Aug 2025 09:25:49 </pubDate>
+      <title>Procedimento 11: Aquisição de Equipamentos Informáticos para o “Future Lab”</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22368-932837057</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22368-932837057</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
       <description>
         &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
         &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Penafiel Verde EM&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;507700651&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Porto&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Penafiel&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Penafiel&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;N/A&quot;&gt;N/A&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:carlosmagalhaes@penafielverde.pt&quot;&gt;carlosmagalhaes@penafielverde.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EXECUÇÃO DA REDE DE DRENAGEM DE ÁGUAS RESIDUAIS NO LUGAR DE BAFOUGUES - RECEZINHOS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EXECUÇÃO DA REDE DE DRENAGEM DE ÁGUAS RESIDUAIS NO LUGAR DE BAFOUGUES - RECEZINHOS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;239.197,60 EUR&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;150 DIAS&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;09-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;PACT – Parque do Alentejo de Ciência e Tecnologia, SA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;510055710&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Évora&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Évora&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Malagueira e Horta das Figueiras&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.pact.pt&quot;&gt;www.pact.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@pact.pt&quot;&gt;geral@pact.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Equipamentos Informáticos para o “Future Lab”&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Equipamentos Informáticos para o “Future Lab”&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;80.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;30 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;29-08-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sim&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;João Assunção&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Operations Executive &amp; Board Advisor&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 12: Aquisição de Equipamentos de Digitalização, Impressão 3D, Robótica, Imersão e Software para o “Future Lab”</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22369-932837058</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22369-932837058</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;PACT – Parque do Alentejo de Ciência e Tecnologia, SA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;510055710&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Évora&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Évora&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Malagueira e Horta das Figueiras&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.pact.pt&quot;&gt;www.pact.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@pact.pt&quot;&gt;geral@pact.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Equipamentos de Digitalização, Impressão 3D, Robótica, Imersão e Software para o “Future Lab”&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de Equipamentos de Digitalização, Impressão 3D, Robótica, Imersão e Software para o “Future Lab”&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;61.200,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;45 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;29-08-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sim&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;João Assunção&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Operations Executive &amp; Board Advisor&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 13: Aquisição de serviços por lotes, para o fornecimento contínuo de refeições confecionadas e lanches aos alunos das escolas, em refeitórios escolares</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22373-932837059</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22373-932837059</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Municipio de Idanha-a-Nova&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;501121030&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Castelo Branco&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Idanha-a-Nova&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Idanha-a-Nova e Alcafozes&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.cm-idanhanova.pt/&quot;&gt;http://www.cm-idanhanova.pt/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-idanhanova.pt&quot;&gt;geral@cm-idanhanova.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de serviços por lotes, para o fornecimento contínuo de refeições confecionadas e lanches aos alunos das escolas, em refeitórios escolares&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de serviços por lotes, para o fornecimento contínuo de refeições confecionadas e lanches aos alunos das escolas, em refeitórios escolares&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;195.776,80 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;365 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;30-08-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Armindo Moreira Palma Jacinto&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal de Idanha-a-Nova&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 14: Licenciamento e Equipamentos CheckPoint</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22348-932849647</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22348-932849647</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ESTADO-MAIOR-GENERAL DAS FORÇAS ARMADAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;600010180&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Lumiar&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.emgfa.pt&quot;&gt;www.emgfa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:DIRFIN_Contratos@emgfa.pt&quot;&gt;DIRFIN_Contratos@emgfa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Licenciamento e Equipamentos CheckPoint&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Licenciamento e Equipamentos CheckPoint&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;106.547,63 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;30 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;19-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Brigadeiro General Rui Manuel da Silva Pina&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Diretor de Finanças&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 15: AQUISIÇÃO DE SERVIÇOS TRANSPORTE DE ALUNOS DO ENSINO PRÉ-ESCOLAR E 1º CICLO DO ENSINO BÁSICO E OUTROS para o Ano Letivo 2025/2026</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22353-932849651</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22353-932849651</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município de Vila Nova de Foz Côa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506829197&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Guarda&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vila Nova de Foz Coa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://cm-fozcoa.pt/&quot;&gt;http://cm-fozcoa.pt/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:correio@cm-fozcoa.pt&quot;&gt;correio@cm-fozcoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;AQUISIÇÃO DE SERVIÇOS TRANSPORTE DE ALUNOS DO ENSINO PRÉ-ESCOLAR E 1º CICLO DO ENSINO BÁSICO E OUTROS para o Ano Letivo 2025/2026&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;AQUISIÇÃO DE SERVIÇOS TRANSPORTE DE ALUNOS DO ENSINO PRÉ-ESCOLAR E 1º CICLO DO ENSINO BÁSICO E OUTROS para o Ano Letivo 2025/2026&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;96.860,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;N/A&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;28-08-2025 17:30&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Dr. João Paulo Lucas Donas Botto Sousa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal de Vila Nova de Foz Côa&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 16: Contratação de Aluguer Operacional de Duas Viaturas Ligeiras de Mercadoria para a Câmara Municipal das Lajes do Pico</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22355-932849660</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22355-932849660</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município das Lajes do Pico&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;512074143&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Região Autónoma dos Açores&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lajes do Pico&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Lajes do Pico&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://cm-lajesdopico.pt/&quot;&gt;http://cm-lajesdopico.pt/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:aprovisionamento.cmlp@gmail.com&quot;&gt;aprovisionamento.cmlp@gmail.com&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Contratação de Aluguer Operacional de Duas Viaturas Ligeiras de Mercadoria para a Câmara Municipal das Lajes do Pico&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Contratação de Aluguer Operacional de Duas Viaturas Ligeiras de Mercadoria para a Câmara Municipal das Lajes do Pico&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;81.600,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;48 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;11-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Amílcar Sérgio Oliveira Goulart&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vereador da Câmara Municipal das Lajes do Pico&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 17: Prestação de serviços em regime de avença, para apoio nas atividades da Equipa Multidisciplinar de Apoio à Comunidade Educativa (EMACE)</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22356-932849661</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22356-932849661</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Município de Ílhavo&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506920887&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aveiro&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Ílhavo&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-ilhavo.pt&quot;&gt;www.cm-ilhavo.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geralcmi@cm-ilhavo.pt&quot;&gt;geralcmi@cm-ilhavo.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Prestação de serviços em regime de avença, para apoio nas atividades da Equipa Multidisciplinar de Apoio à Comunidade Educativa (EMACE)&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Prestação de serviços em regime de avença, para apoio nas atividades da Equipa Multidisciplinar de Apoio à Comunidade Educativa (EMACE)&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;282.954,24 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;36 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;22-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;João António Filipe Campolargo&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Câmara Municipal&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 18: Equipamentos de rede para telecomunicações</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22358-932849662</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22358-932849662</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ESTADO-MAIOR-GENERAL DAS FORÇAS ARMADAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;600010180&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Lumiar&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.emgfa.pt&quot;&gt;www.emgfa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:DIRFIN_Contratos@emgfa.pt&quot;&gt;DIRFIN_Contratos@emgfa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Equipamentos de rede para telecomunicações&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Equipamentos de rede para telecomunicações&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;128.197,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;30 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;04-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Brigadeiro General Rui Manuel da Silva Pina&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Diretor de Finanças&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 19: Aquisição de acessórios para contentores subterrâneos</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22359-932849663</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22359-932849663</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;MUNICIPIO DE LAGOA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;506804240&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Faro&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lagoa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.cm-lagoa.pt&quot;&gt;www.cm-lagoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@cm-lagoa.pt&quot;&gt;geral@cm-lagoa.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de acessórios para contentores subterrâneos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de acessórios para contentores subterrâneos&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;55.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;90 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;04-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Tânia Moreira&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Ana Cristina Tiago Martins&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vereadora&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 20: Concurso Público Internacional n.º 2/2025/ALRAA, para aquisição dos serviços de cibersegurança para a Assembleia Legislativa da Região Autónoma dos Açores</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22360-932849664</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22360-932849664</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ALRAA - Assembleia Legislativa da Região Autónoma dos Açores&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;672000830&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Região Autónoma dos Açores&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Horta&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Horta (Matriz)&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.alra.pt&quot;&gt;www.alra.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@alra.pt&quot;&gt;geral@alra.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Concurso Público Internacional n.º 2/2025/ALRAA, para aquisição dos serviços de cibersegurança para a Assembleia Legislativa da Região Autónoma dos Açores&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição dos serviços de cibersegurança para a Assembleia Legislativa da Região Autónoma dos Açores&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;247.500,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;36 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;17-09-2025 17:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Luís Mesquita&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Técnico Superior&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 21: CONCURSO PÚBLICO INTERNACIONAL N.º 25.IX _EMPREITADA_CPI_01_2025</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22361-932849665</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22361-932849665</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Associação Turismo de Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;501880160&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.visitlisboa.com/pt-pt&quot;&gt;https://www.visitlisboa.com/pt-pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:atl@visitlisboa.com&quot;&gt;atl@visitlisboa.com&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;CONCURSO PÚBLICO INTERNACIONAL N.º 25.IX _EMPREITADA_CPI_01_2025&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;CONCURSO PÚBLICO INTERNACIONAL N.º 25.IX _EMPREITADA_CPI_01_2025 para Empreitada de Obra Pública de Recuperação dos Saguões e Coberturas do Palácio Nacional da Ajuda&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;6.150.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;8 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;17-09-2025 18:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sim&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;David Mendes Coelho&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Gabinete de Assessoria Jurídica&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 22: Concurso Público Internacional para a prestação de serviços de vigilância através de meios humanos e monitorização de sinais de alarme e de videovigilância</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22362-932875486</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22362-932875486</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sociedade de Transportes Colectivos do Porto, E. I. M., S. A.&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;500246467&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Porto&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Porto&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;http://www.stcp.pt&quot;&gt;http://www.stcp.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@stcp.pt&quot;&gt;geral@stcp.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Concurso Público Internacional para a prestação de serviços de vigilância através de meios humanos e monitorização de sinais de alarme e de videovigilância&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Prestação de serviços de vigilância através de meios humanos e monitorização de sinais de alarme e de videovigilância&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1.500.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;3 ANOS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;24-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/publico/&quot;&gt;https://community.vortal.biz/publico/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Tatiana Bacelar Vilar&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Advogada&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 23: Fornecimento contínuo de bens alimentares para o Colégio de São Gonçalo de Amarante  Escola Católica  Ano Letivo 2025/2026, por lotes  Frutas e Legumes e Laticínios</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22364-932875487</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22364-932875487</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Colégio de São Gonçalo de Amarante  Escola Católica&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;591001209&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Porto&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Amarante&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.colegiosaogoncalo.pt&quot;&gt;www.colegiosaogoncalo.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:geral@colegiosaogoncalo.pt&quot;&gt;geral@colegiosaogoncalo.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fornecimento contínuo de bens alimentares para o Colégio de São Gonçalo de Amarante  Escola Católica  Ano Letivo 2025/2026, por lotes  Frutas e Legumes e Laticínios&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Fornecimento contínuo de bens alimentares para o Colégio de São Gonçalo de Amarante  Escola Católica  Ano Letivo 2025/2026, por lotes  Frutas e Legumes e Laticínios&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;41.819,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;12 MESES&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;26-08-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Joaquim Samuel Ribeiro Guedes&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente da Direção&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 24: Reparação do muro e executar escada Metálica Exterior, fundações da Escada para Escolas EPAV Colares e Sintra</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22366-932875488</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22366-932875488</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Cenintel, Centro de Inteligência Formativa, Ensino e Formação Profissional, Lda.&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;507261682&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sintra&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Colares&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.epav.pt&quot;&gt;www.epav.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:servicosfinanceiros@epav.pt&quot;&gt;servicosfinanceiros@epav.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Reparação do muro e executar escada Metálica Exterior, fundações da Escada para Escolas EPAV Colares e Sintra&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Reparação do muro para contenção de terras para a Escola EPAV, em Colares e executar escada Metálica Exterior, fundações da Escada, partir o murete da base de apoio da escada e portão e guarda da escada e na Escola EPAV, em Sintra.&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;53.425,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;90 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;03-09-2025 17:30&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;José Luís Furtado&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Gerente&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 25: Aquisição de serviços de diálise peritoneal na ULSAC e no domicílio</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22367-932875489</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22367-932875489</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Unidade Local de Saúde do Alentejo Central, E.P.E&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;508085888&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Évora&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Évora&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Todas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.hevora.min-saude.pt&quot;&gt;www.hevora.min-saude.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:concursos.aprov@ulsac.min-saude.pt&quot;&gt;concursos.aprov@ulsac.min-saude.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de serviços de diálise peritoneal na ULSAC e no domicílio&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Aquisição de serviços de diálise peritoneal na ULSAC e no domicílio&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;985.466,30 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;365 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;17-09-2025 18:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;VORTAL&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://community.vortal.biz/public/&quot;&gt;https://community.vortal.biz/public/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vitor Rui Gomes Fialho&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Presidente do Conselho de Administração&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 26: Empreitada - EN106 - PASSAGEM HIDRÁULICA (KM 17+950) - REABILITAÇÃO E REFORÇO DA OBRA DE ARTE</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22370-932875490</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22370-932875490</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Infraestruturas de Portugal&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;503933813&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Setúbal&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Almada&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.infraestruturasdeportugal.pt&quot;&gt;www.infraestruturasdeportugal.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:dcl@infraestruturasdeportugal.pt&quot;&gt;dcl@infraestruturasdeportugal.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Empreitada - EN106 - PASSAGEM HIDRÁULICA (KM 17+950) - REABILITAÇÃO E REFORÇO DA OBRA DE ARTE&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EN106 - PASSAGEM HIDRÁULICA (KM 17+950) - REABILITAÇÃO E REFORÇO DA OBRA DE ARTE&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;400.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;150 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;12-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ANOGOV&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.anogov.com/infraestruturasdeportugal-ip/faces/&quot;&gt;https://www.anogov.com/infraestruturasdeportugal-ip/faces/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Margarida Veloso&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Diretora Adjunta de Compras e Logística (em acumulação Dir. Departamento de Compras)&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 27: EMPREITADA - L. BEIRA ALTA - ESTAÇÃO DA GUARDA - CONSTRUÇÃO DE ARMAZÉM PARA DIREÇÃO DA REDE RODOVIÁRIA E DIREÇÃO DA REDE FERROVIÁRIA</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22371-932875491</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22371-932875491</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Infraestruturas de Portugal&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;503933813&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Setúbal&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Almada&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;União das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.infraestruturasdeportugal.pt&quot;&gt;www.infraestruturasdeportugal.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:dcl@infraestruturasdeportugal.pt&quot;&gt;dcl@infraestruturasdeportugal.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EMPREITADA - L. BEIRA ALTA - ESTAÇÃO DA GUARDA - CONSTRUÇÃO DE ARMAZÉM PARA DIREÇÃO DA REDE RODOVIÁRIA E DIREÇÃO DA REDE FERROVIÁRIA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;L. BEIRA ALTA - ESTAÇÃO DA GUARDA - CONSTRUÇÃO DE ARMAZÉM PARA DIREÇÃO DA REDE RODOVIÁRIA E DIREÇÃO DA REDE FERROVIÁRIA&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;740.000,00 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;240 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;19-09-2025 17:00&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Não&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ANOGOV&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.anogov.com/infraestruturasdeportugal-ip/faces/&quot;&gt;https://www.anogov.com/infraestruturasdeportugal-ip/faces/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Margarida Veloso&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Diretora Adjunta de Compras e Logística (em acumulação Dir. Departamento de Compras)&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        </description>
+    </item>
+    <item>
+      <title>Procedimento 28: EMPREITADA DE REMODELAÇÃO DE LOJA CIDADÃO DE FARO E SUBSTITUIÇÃO DOS SISTEMAS DE AVAC E ILUMINAÇÃO</title>
+      <link>https://diariodarepublica.pt/dr/detalhe/contrato-publico/22372-932875492</link>
+      <guid isPermaLink="true">https://diariodarepublica.pt/dr/detalhe/contrato-publico/22372-932875492</guid>
+      <pubDate>Thu, 21 Aug 2025 09:27:26 </pubDate>
+      <description>
+        &lt;h3&gt;Informações do Procedimento&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Entidade Adjudicante:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Agência para a Modernização Administrativa, I.P.&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;NIPC:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;508184509&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Distrito:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Concelho:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Freguesia:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Freguesia de Santo António - Lisboa&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Site:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;www.ama.gov.pt&quot;&gt;www.ama.gov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;E-mail:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;mailto:contratacao@ama.gov.pt&quot;&gt;contratacao@ama.gov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Designação do contrato:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EMPREITADA DE REMODELAÇÃO DE LOJA CIDADÃO DE FARO E SUBSTITUIÇÃO DOS SISTEMAS DE AVAC E ILUMINAÇÃO&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Descrição:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;EMPREITADA DE REMODELAÇÃO DE LOJA CIDADÃO DE FARO E SUBSTITUIÇÃO DOS SISTEMAS DE AVAC E ILUMINAÇÃO&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Preço base s/IVA:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;94.936,56 EUR&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo de execução:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;150 DIAS&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Prazo para apresentação das propostas:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;09-09-2025 23:59&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tem fundos EU:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sim&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Plataforma eletrónica:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;ACIN&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;URL procedimento:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.acingov.pt&quot;&gt;https://www.acingov.pt&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Nome:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Sofia Capela Lavrador&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Autor do anúncio - Cargo:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Técnica Superior&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         </description>
