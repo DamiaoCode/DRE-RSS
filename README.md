@@ -7,7 +7,7 @@ Este projeto extrai automaticamente informações de procedimentos do RSS feed d
 - ✅ **Extração automática** do RSS feed do Diário da República
 - ✅ **Detalhes completos** de cada procedimento (entidade, NIPC, preços, prazos, etc.)
 - ✅ **Feed RSS válido** compatível com todos os leitores RSS
-- ✅ **Atualização automática** via GitHub Actions (diária)
+- ✅ **Atualização automática** via GitHub Actions (várias vezes ao dia)
 - ✅ **GitHub Pages** com interface web moderna e responsiva
 - ✅ **Sistema de Seeds** para filtros personalizados por palavras-chave e distrito
 - ✅ **Gestão de procedimentos ativos** com filtros por prazo de validade
@@ -171,9 +171,10 @@ Para ativar o GitHub Pages:
 
 ### GitHub Actions
 
-O workflow está configurado em `.github/update.yml`:
+O workflow está configurado em `.github/workflows/main.yml`:
 
-- Execução diária automática
+- Execução automática várias vezes ao dia (08:00–22:00 UTC), porque o RSS do DRE só lista publicações do próprio dia até à hora da consulta
+- Recolha incremental: procedimentos já extraídos no mesmo dia são reutilizados e mesclados, para não perder anúncios da tarde
 - Execução manual disponível
 - Commit automático das atualizações
 - Geração automática de ficheiros JSON datados
