@@ -2,10 +2,19 @@ name: Atualizar Feed RSS DRE
 
 on:
   schedule:
-    # Executar diariamente às 8:00 UTC
-    - cron: "0 8 * * *"
+    # O RSS do DRE só contém publicações do próprio dia até à hora da consulta.
+    # Várias execuções ao longo do dia (UTC) evitam perder anúncios da tarde.
+    # Horas UTC ≈ 08:00–23:00 em Portugal (WET/WEST).
+    - cron: "0 8,10,12,14,16,18,20,22 * * *"
   workflow_dispatch:
     # Permitir execução manual
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rss
+  cancel-in-progress: false
 
 jobs:
   update-rss:
