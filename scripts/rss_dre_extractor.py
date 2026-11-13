@@ -14,6 +14,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
+from rss_storage import (
+    daily_data_path,
+    existing_complete_by_link,
+    load_json_list,
+    merge_procedimentos_by_link,
+)
+
 def fetch_rss_feed(url: str) -> str:
     """
     Faz fetch do conteúdo XML do RSS feed
@@ -226,19 +233,12 @@ def save_to_json(data: List[Dict[str, str]], filename: str = "procedimentos_dre.
 
 def save_to_json_with_date(data: List[Dict[str, str]]):
     """
-    Salva os dados extraídos em formato JSON na pasta data/ com nome baseado na data atual
+    Salva os dados extraídos em formato JSON na pasta data/ com nome baseado
+    na data atual em Europe/Lisbon (DD-MM-YYYY).
     """
     try:
-        from datetime import datetime
-        
-        # Garantir que o diretório data existe
         os.makedirs('../data', exist_ok=True)
-        
-        # Obter data atual no formato DD-MM-YYYY
-        current_date = datetime.now().strftime('%d-%m-%Y')
-        filename = f"{current_date}.json"
-        
-        filepath = os.path.join('../data', filename)
+        filepath = daily_data_path('../data')
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f"Dados salvos com sucesso em {filepath}")
@@ -268,29 +268,53 @@ def main():
         return
     
     print(f"Extraídos {len(extracted_data)} procedimentos")
+
+    # Reutilizar o JSON do dia (Europe/Lisbon) para não perder publicações
+    # já recolhidas em execuções anteriores — o RSS do DRE só tem o próprio dia.
+    existing_today = load_json_list(daily_data_path('../data'))
+    already_complete = existing_complete_by_link(existing_today)
+    print(
+        f"📂 Procedimentos já guardados hoje: {len(existing_today)} "
+        f"({len(already_complete)} com detalhes)"
+    )
     
     # Salvar dados básicos em JSON
     save_to_json(extracted_data, "procedimentos_basicos.json")
     
-    # Extrair detalhes de cada procedimento
+    # Extrair detalhes apenas dos procedimentos ainda não recolhidos
     print("\nExtraindo detalhes de cada procedimento...")
     procedimentos_completos = []
+    reused = 0
+    scraped = 0
     
     for i, item in enumerate(extracted_data):
         print(f"\nProcessando procedimento {i+1}/{len(extracted_data)}: {item['numero_procedimento']}")
-        
-        # Extrair detalhes do procedimento
+        link = (item.get('link') or '').strip()
+
+        if link in already_complete:
+            procedimentos_completos.append(already_complete[link])
+            reused += 1
+            print("  ↷ Já recolhido hoje; a reutilizar detalhes")
+            continue
+
         details = fetch_procedure_details(item['link'])
+        scraped += 1
         
         if details:
-            # Combinar dados básicos com detalhes
             item_completo = {**item, **details}
             procedimentos_completos.append(item_completo)
-            print(f"  ✓ Detalhes extraídos com sucesso")
+            print("  ✓ Detalhes extraídos com sucesso")
         else:
-            # Manter apenas dados básicos se não conseguir extrair detalhes
             procedimentos_completos.append(item)
-            print(f"  ✗ Não foi possível extrair detalhes")
+            print("  ✗ Não foi possível extrair detalhes")
+
+    procedimentos_completos = merge_procedimentos_by_link(
+        existing_today, procedimentos_completos
+    )
+    print(
+        f"\n📊 Recolha incremental: {reused} reutilizados, "
+        f"{scraped} novos, {len(procedimentos_completos)} no total do dia"
+    )
     
     # Salvar dados completos em JSON
     save_to_json(procedimentos_completos, "procedimentos_completos.json")
